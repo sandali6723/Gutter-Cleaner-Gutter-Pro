@@ -14,6 +14,6 @@ Design Objective:
 
 This project showcases how mechatronic design and embedded systems can solve real-world problems with affordable and accessible technology.
 
-<img width="224" height="432" alt="WhatsApp Image 2024-09-13 at 13 40 59_0da97873" src="https://github.com/user-attachments/assets/aa146ae8-778b-49f9-be9b-e12eb59dfe02" />
-<img width="224" height="432" alt="WhatsApp Image 2024-09-13 at 13 40 59_ab72e2f6" src="https://github.com/user-attachments/assets/6fdf4949-d3c6-4a30-a735-68f14af0a6f2" />
+<img width="224" height="300" alt="WhatsApp Image 2024-09-13 at 13 40 59_0da97873" src="https://github.com/user-attachments/assets/aa146ae8-778b-49f9-be9b-e12eb59dfe02" />
+<img width="224" height="300" alt="WhatsApp Image 2024-09-13 at 13 40 59_ab72e2f6" src="https://github.com/user-attachments/assets/6fdf4949-d3c6-4a30-a735-68f14af0a6f2" />
 
